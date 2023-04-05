@@ -1,4 +1,4 @@
-module github.com/trajan0x/moe-demo
+module github.com/trajan0x/moe-18demo
 
 go 1.20
 

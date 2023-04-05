@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/trajan0x/moe-demo/moe"
+	"github.com/trajan0x/moe-18demo/moe"
 )
 
 func main() {
